@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rajat 👋</h1>
 <p align="center">
-  Full-Stack Developer · React / Next.js · Backend & System Design
+  Software Enginner · 3+ years
 </p>
 
 <p align="center">
@@ -9,21 +9,6 @@
   <a href="mailto:rajat.karnal@gmail.com">Email</a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a **full-stack developer with ~3 years of experience** building scalable products used by **200K+ users** across multiple markets.
-
-I focus on:
-- Clean, maintainable architecture
-- High-performance UI
-- Real-world system design
-- Shipping production-ready features
-
-Currently learning **Go** and advanced backend internals.
-
----
 
 ## 🧠 Tech Stack (Visual Overview)
 
