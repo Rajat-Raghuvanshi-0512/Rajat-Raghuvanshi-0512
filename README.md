@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi, I'm Rajat 👋</h1>
 <p align="center">
-  Software Enginner · 3+ years
+  Software Engineer · 3+ years
 </p>
 
 <p align="center">
