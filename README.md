@@ -1,42 +1,15 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-<h1 align="center">Hi, I'm Rajat 👋</h1>
-<p align="center">
-  Software Engineer · 3+ years
-</p>
+# 💫 About Me:
+I’m a **full-stack developer with ~3 years of experience** building scalable products used by **200K+ users** across multiple markets.<br>I focus on: <br>- Clean, maintainable architecture <br>- High-performance UI <br>- Real-world system design <br>- Shipping production-ready features <br>
 
-<p align="center">
-  <a href="https://www.rajat-raghuvanshi.com">Portfolio</a> ·
-  <a href="https://www.rajat-raghuvanshi.com/resume.pdf">Resume</a> ·
-  <a href="mailto:rajat.karnal@gmail.com">Email</a>
-</p>
 
-## 👨‍💻 About Me 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-raghuvanshi-315593201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17933816) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajat.karnal@gmail.com) 
 
-I’m a **full-stack developer with ~3 years of experience** building scalable products used by **200K+ users** across multiple markets.
-I focus on: 
-- Clean, maintainable architecture 
-- High-performance UI 
-- Real-world system design 
-- Shipping production-ready features 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rajat-Raghuvanshi-0512&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rajat-Raghuvanshi-0512&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-Raghuvanshi-0512&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Currently learning **Go** and advanced backend internals.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rajat-Raghuvanshi-0512&show_icons=true&theme=dracula" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-Raghuvanshi-0512&layout=compact&theme=dracula" />
-</p>
-
----
-
-## 📫 Contact
-
-- 📧 **rajat.karnal@gmail.com**
-- 🌐 **https://www.rajat-raghuvanshi.com**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajat-Raghuvanshi-0512&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
